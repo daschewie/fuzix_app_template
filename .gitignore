@@ -1,0 +1,12 @@
+core
+*~
+*.asm
+*.lst
+*.sym
+*.map
+*.noi
+*.lk
+*.ihx
+*.tmp
+*.bin
+*.o
